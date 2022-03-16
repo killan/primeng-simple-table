@@ -1,4 +1,8 @@
 @import '~primeicons/primeicons.css';
 @import '~primeng-lts/resources/themes/saga-blue/theme.css';
 @import '~primeng-lts/resources/primeng.min.css';
-@import '~primeflex/primeflex'
+@import '~primeflex/primeflex';
+
+p-dropdown.full-width .p-dropdown {
+  width: 100%;
+}

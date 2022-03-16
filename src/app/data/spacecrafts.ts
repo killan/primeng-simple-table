@@ -27,6 +27,6 @@ export const spacecraftTypes: any[] = [
   { id: 4, label: 'Lunar' },
   { id: 5, label: 'Orbital' },
   { id: 6, label: 'Space station' },
-  { id: 7, label: 'Prsonnal' },
+  { id: 7, label: 'Personnal' },
   { id: 8, label: 'Intergalactic' }
 ]
