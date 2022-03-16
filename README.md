@@ -1,5 +1,5 @@
 # primeng-simple-table
-___
+
 2022-03 · Jehan 'Killan' Bihin
 
 POC Angular 12 + PrimeNg 12
